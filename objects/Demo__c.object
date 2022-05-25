@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomObject xmlns="http://soap.sforce.com/2006/04/metadata" 
-   
-              
-              <actionOverrides>
+      <actionOverrides>
         <actionName>Accept</actionName>
         <type>Default</type>
     </actionOverrides>
@@ -184,6 +182,7 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
+</CustomObject>
      <fields>
         <fullName>Demo_Field_2__c</fullName>
         <externalId>false</externalId>
